@@ -1,0 +1,13 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Telemetry recordings
+data/
+*.ibt
+
+# macOS files
+.DS_Store
+
+
